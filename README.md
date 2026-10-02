@@ -22,6 +22,18 @@ without anything downstream noticing.
   and EXIF orientation is honoured.
 - Corrupt or unreadable files show a generated placeholder instead of breaking the grid.
 
+## Screenshots
+
+![Screenshot 1](docs/1.jpg)
+
+![Screenshot 2](docs/2.jpg)
+
+![Screenshot 3](docs/3.jpg)
+
+![Screenshot 4](docs/4.jpg)
+
+![Screenshot 5](docs/5.jpg)
+
 ## Installation
 
 ```bash
