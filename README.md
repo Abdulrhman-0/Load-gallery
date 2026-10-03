@@ -24,15 +24,15 @@ without anything downstream noticing.
 
 ## Screenshots
 
-![Screenshot 1](docs/1.jpg)
+![Screenshot 1](docs/1n.jpg)
 
-![Screenshot 2](docs/2.jpg)
+![Screenshot 2](docs/2n.jpg)
 
-![Screenshot 3](docs/3.jpg)
+![Screenshot 3](docs/3n.jpg)
 
-![Screenshot 4](docs/4.jpg)
+![Screenshot 4](docs/4n.jpg)
 
-![Screenshot 5](docs/5.jpg)
+![Screenshot 5](docs/5n.jpg)
 
 ## Installation
 
